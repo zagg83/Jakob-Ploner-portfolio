@@ -29,7 +29,7 @@ const projects = [
     description:
       "Webanwendung zum Verfolgen von Workouts und Fortschritten, mit einem Ranking-System, das den Trainingsprozess spielerischer und motivierender macht.",
     image: "/workout-tracker.png",
-    link: "https://zaggathletics.com/",
+    link: "https://zagg-wrkt-frontend-git-main-jakobs-projects-79a55897.vercel.app/login",
     technologies: ["ReactJS", "TypeScript"],
   },
   {
@@ -63,14 +63,6 @@ const projects = [
     image: "/wheather-app.png",
     link: "https://zagg83.github.io/weatherapp/",
     technologies: ["JavaScript", "API"],
-  },
-  {
-    name: "Messaging App",
-    description:
-      "Einfache Messaging-App mit Fokus auf die grundlegende Kommunikation und ohne unnötige Komplexität.",
-    image: "/etchsketch.png",
-    link: "https://zagg83.github.io/EtchSketch/",
-    technologies: ["ReactJS", "Node.js"],
   },
   {
     name: "EtchSketch",
